@@ -8,5 +8,6 @@ public class MyGitTest {
   public void f() {
 	  
 	  System.out.println("This is my first Git Test1...");
+	  System.out.println("This is my first Git Test1...");
   }
 }
