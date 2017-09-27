@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="28" started-at="2017-09-27T03:02:46Z" finished-at="2017-09-27T03:02:46Z">
+  <suite name="Suite" duration-ms="52" started-at="2017-09-27T04:06:07Z" finished-at="2017-09-27T04:06:07Z">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="28" started-at="2017-09-27T03:02:46Z" finished-at="2017-09-27T03:02:46Z">
+    <test name="Test" duration-ms="52" started-at="2017-09-27T04:06:07Z" finished-at="2017-09-27T04:06:07Z">
       <class name="gittest.MyGitTest">
-        <test-method status="PASS" signature="f()[pri:0, instance:gittest.MyGitTest@13b6d03]" name="f" duration-ms="11" started-at="2017-09-27T08:32:46Z" finished-at="2017-09-27T08:32:46Z">
+        <test-method status="PASS" signature="f()[pri:0, instance:gittest.MyGitTest@13b6d03]" name="f" duration-ms="13" started-at="2017-09-27T09:36:07Z" finished-at="2017-09-27T09:36:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
       </class> <!-- gittest.MyGitTest -->
-    </test> <!-- Test1 -->
+    </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
